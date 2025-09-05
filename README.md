@@ -1,6 +1,6 @@
 # ⚛️ React Learning Playground  
 
-<img width="364" height="138" alt="image" src="https://github.com/user-attachments/assets/963193c3-7841-480d-aac2-d02487d7e08c" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/af00b1f5-fb7b-4158-b366-38f58964fa74" />
 
 Welcome to my **React practice repo**! 🚀  
 This space is for learning, experimenting, and exploring the basics of React.  
